@@ -4,9 +4,10 @@ The project was built to extract data from github into azure and making it avail
 1. Azure Data Factory
 2. Azure datalake Gen2
 3. Databricks
-4. Synapse serverless
+4. Azure Synapse serverless SQL
 
    
-## The architecture
-![image](https://github.com/user-attachments/assets/9249318a-1286-4b7b-86c2-b201d82b1306)
+## The Architecture
+[Flowchart.pdf](https://github.com/user-attachments/files/16480942/Flowchart.pdf)
+
 
